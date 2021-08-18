@@ -1,0 +1,116 @@
+========== Description Part Begin ==========
+Title = FP37520.5559143519
+ProgID = PageletServer.DynamicMenu
+LastUpdateTime = 37520.555914352
+PreviewPath = _pgtres/
+Description = 
+========== Description Part End ==========
+
+========== Parameter Part Begin ==========
+MenuItem1_2 = 0;SourceTec Messenger;center;middle;;;-1;-1;0;normal;0;52428;false;384477;false;;0;-1;-1;;;2;16;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;solid;13408512;39321;0;52428;;;;;;;;;;;;;;;;;;;;
+MenuItem0_3 = 0;Menu Item 1;center;middle;;;-1;-1;0;sepline;0;13434879;false;39321;false;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;65535;bold;normal;none;Arial;9;65535;bold;normal;none;0;solid;13408512;13408512;0;0;;;;;;;;;;;;;;;;;;;;
+MenuBody0 = 10;auto;0;0;vertically;C:\APEXVALUE.COM1\_borders\_pgtres\arrow_r.gif;7;7;0;2;10066329;false;;tile;13553358;1;outset;0;Normal;50;true;;;;;;;;;;;;;;;;;;;
+MenuItem1_3 = 0;SourceTec Java Decompiler;center;middle;;;-1;-1;0;normal;0;52428;false;384477;false;;0;-1;-1;;;2;16;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;solid;13408512;39321;0;52428;;;;;;;;;;;;;;;;;;;;
+MenuBody1 = 5;auto;-50;0;vertically;C:\PROGRA~1\SOURCE~1\SOTHIN~1\triR.gif;10;10;0;2;16777215;false;;tile;12369084;1;outset;0;Strips right down;30;true;;;;;;;;;;;;;;;;;;;
+MenuItem0_4 = 0;|_#`news 2|_#`|_#`;center;middle;;;-1;-1;0;normal;0;11592418;false;13434879;false;;0;-1;-1;C:\APEXVALUE.COM1\_borders\_pgtres\news1.jpg;C:\APEXVALUE.COM1\_borders\_pgtres\news1.jpg;50;46;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;0;normal;normal;none;0;solid;13408512;13408512;0;0;;;;;;;;;;;;;;;;;;;;
+MenuItem1_4 = 0;SmartMails;center;middle;;;-1;-1;0;normal;0;52428;false;384477;false;;0;-1;-1;;;2;16;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;solid;13408512;39321;0;52428;;;;;;;;;;;;;;;;;;;;
+MenuItem0_5 = 1;products  ;left;middle;;;-1;-1;0;normal;0;2868420;false;3394764;false;;0;-1;-1;;;20;-1;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;none;16777215;39321;0;39321;;;;;;;;;;;;;;;;;;;;
+MenuItem0_6 = 0;download  ;left;middle;;;-1;-1;0;normal;0;2868420;false;3394764;false;;0;-1;-1;;;20;-1;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;none;16777215;39321;0;39321;;;;;;;;;;;;;;;;;;;;
+MenuItem0_7 = 0;Menu Item 1;center;middle;;;-1;-1;0;sepline;0;39321;false;39321;false;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;65535;bold;normal;none;Arial;9;65535;bold;normal;none;0;solid;13408512;13408512;0;0;;;;;;;;;;;;;;;;;;;;
+MenuItem0_8 = 0;Menu Item 1;center;middle;;;-1;-1;0;sepline;0;13434879;false;39321;false;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;65535;bold;normal;none;Arial;9;65535;bold;normal;none;0;solid;13408512;13408512;0;0;;;;;;;;;;;;;;;;;;;;
+MenuItem0_9 = 0;about  ;left;middle;;;-1;-1;0;normal;0;2868420;false;3394764;false;;0;-1;-1;;;20;-1;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;none;16777215;39321;0;39321;;;;;;;;;;;;;;;;;;;;
+TopMenuBody = yfatchr;relative;0;0;none;false;false;;;;;;;;
+MenuItem0_0 = 0;Latest news           ;center;middle;;;-1;-1;0;normal;0;39321;false;39321;false;;0;-1;-1;;;20;-1;0;;;_self;Arial;9;65535;bold;normal;none;Arial;9;65535;bold;normal;none;0;solid;13408512;13408512;0;0;;;;;;;;;;;;;;;;;;;;
+MenuItem1_0 = 0;Sothink Glanda;center;middle;;;-1;-1;0;normal;0;52428;false;384477;false;;0;-1;-1;;;2;16;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;solid;13408512;39321;0;52428;;;;;;;;;;;;;;;;;;;;
+MenuItem0_1 = 0;|_#`news 1|_#`|_#`;center;middle;;;-1;-1;0;normal;0;11592418;false;13434879;false;;0;-1;-1;C:\APEXVALUE.COM1\_borders\_pgtres\news2.jpg;C:\APEXVALUE.COM1\_borders\_pgtres\news2.jpg;50;46;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;0;normal;normal;none;0;solid;13408512;13408512;0;0;;;;;;;;;;;;;;;;;;;;
+MenuItem1_1 = 0;Sothink Web Widgets;center;middle;;;-1;-1;0;normal;0;52428;false;384477;false;;0;-1;-1;;;2;16;0;;;_self;Arial;9;16777215;normal;normal;none;Arial;9;0;normal;normal;none;0;solid;13408512;39321;0;52428;;;;;;;;;;;;;;;;;;;;
+MenuItem0_2 = 0;Menu Item 1;center;middle;;;-1;-1;0;sepline;0;39321;false;39321;false;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;65535;bold;normal;none;Arial;9;65535;bold;normal;none;0;solid;13408512;13408512;0;0;;;;;;;;;;;;;;;;;;;;
+========== Parameter Part End ==========
+
+========== Resource Part Begin ==========
+Resource Number = 10
+stm30ie4.js=C:\PROGRAM FILES\SOURCETEC\SOTHINK DHTMLMENU\Resource\=
+stm30uns.js=C:\PROGRAM FILES\SOURCETEC\SOTHINK DHTMLMENU\Resource\=
+stm30nn6.js=C:\PROGRAM FILES\SOURCETEC\SOTHINK DHTMLMENU\Resource\=
+stm30op6.js=C:\PROGRAM FILES\SOURCETEC\SOTHINK DHTMLMENU\Resource\=
+blank.gif=C:\PROGRAM FILES\SOURCETEC\SOTHINK DHTMLMENU\Resource\=
+arrow_r.gif=C:\APEXVALUE.COM1\_borders\_pgtres\=
+news2.jpg=C:\APEXVALUE.COM1\_borders\_pgtres\=
+news2.jpg=C:\APEXVALUE.COM1\_borders\_pgtres\=
+news1.jpg=C:\APEXVALUE.COM1\_borders\_pgtres\=
+news1.jpg=C:\APEXVALUE.COM1\_borders\_pgtres\=
+========== Resource Part End ==========
+
+========== HTML Part Begin ==========
+Segment Number = 2
+Segment Position = script
+<script LANGUAGE="JavaScript1.2">
+BlankImage=new Image();
+BlankImage.src="_pgtres/blank.gif";
+var Opera=(navigator.userAgent.indexOf("Opera")!=-1)?1:0;
+var Opera6=(navigator.userAgent.indexOf("Opera 6")!=-1)?1:0;
+var Konqueror=(navigator.userAgent.indexOf("Konqueror")!=-1)?1:0;
+var NS4=(document.layers)?1:0;
+var IEMac=0;
+if ((navigator.appVersion.indexOf("Mac") != -1) && !NS4)
+	IEMac=1;
+var IEver4=0;
+if (document.all)
+{
+	var vers=navigator.appVersion;
+	if (vers.substring(0,1)=="4")
+		IEver4=1;
+}
+var IEMac4=0;
+if ((IEMac==1) && (IEver4==1))
+	IEMac4=1;
+var NS6=0;
+if (!NS4 && !IEver4)
+	NS6=(document.getElementsByTagName("*") && !document.all)?1:0;
+var EnableDMenu=(NS4||NS6||IEver4||Opera6);
+var _tempStr_="<scrip";
+_tempStr_+="t type=\"";
+_tempStr_+="text/javascript\" src=\"";
+if(Opera6)
+	_tempStr_+="_pgtres/stm30op6.js";
+else if(NS6)
+	_tempStr_+="_pgtres/stm30nn6.js";
+else if(IEver4)
+	_tempStr_+="_pgtres/stm30ie4.js";
+else
+	_tempStr_+="_pgtres/stm30uns.js";
+_tempStr_+="\"></scr";
+_tempStr_+="ipt>";
+document.write(_tempStr_);
+</script>
+===== Segment End =====
+Segment Position = cursor
+<script LANGUAGE="JavaScript1.2">
+beginSTM("yfatchr","relative","0","0","none","false","false");
+beginSTMB("auto","0","0","vertically","_pgtres/arrow_r.gif","7","7","0","2","#999999","","tile","#cecece","1","outset","0","Normal","50","50","46","7","7");
+appendSTMI("false","Latest&nbsp;news&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;","center","middle","","","-1","-1","0","normal","#999900","#999900","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","20","-1","0","","","_self","'Arial'","9pt","#ffff00","bold","normal","none","'Arial'","9pt","#ffff00","bold","normal","none","0","solid","#0099cc","#0099cc","#000000","#000000");
+appendSTMI("false","<BR>news&nbsp;1<BR><BR>","center","middle","","","-1","-1","0","normal","#e2e2b0","#ffffcc","","0","-1","-1","_pgtres/news2.jpg","_pgtres/news2.jpg","50","46","0","","","_self","'Arial'","9pt","#000000","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","solid","#0099cc","#0099cc","#000000","#000000");
+appendSTMI("false","Menu&nbsp;Item&nbsp;1","center","middle","","","-1","-1","0","sepline","#999900","#999900","_pgtres/blank.gif","1","-1","-1","","","-1","-1","0","","","_self","'Arial'","9pt","#ffff00","bold","normal","none","'Arial'","9pt","#ffff00","bold","normal","none","0","solid","#0099cc","#0099cc","#000000","#000000");
+appendSTMI("false","Menu&nbsp;Item&nbsp;1","center","middle","","","-1","-1","0","sepline","#ffffcc","#999900","_pgtres/blank.gif","1","-1","-1","","","-1","-1","0","","","_self","'Arial'","9pt","#ffff00","bold","normal","none","'Arial'","9pt","#ffff00","bold","normal","none","0","solid","#0099cc","#0099cc","#000000","#000000");
+appendSTMI("false","<BR>news&nbsp;2<BR><BR>","center","middle","","","-1","-1","0","normal","#e2e2b0","#ffffcc","","0","-1","-1","_pgtres/news1.jpg","_pgtres/news1.jpg","50","46","0","","","_self","'Arial'","9pt","#000000","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","solid","#0099cc","#0099cc","#000000","#000000");
+appendSTMI("false","products&nbsp;&nbsp;","left","middle","","","-1","-1","0","normal","#c4c42b","#cccc33","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","20","-1","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","none","#ffffff","#999900","#000000","#999900");
+beginSTMB("auto","-50","0","vertically","file:///C|\\PROGRA~1\\SOURCE~1\\SOTHIN~1\\triR.gif","0","0","0","2","#ffffff","","tile","#bcbcbc","1","outset","0","Strips right down","30","2","16","1","1");
+appendSTMI("false","Sothink&nbsp;Glanda","center","middle","","","-1","-1","0","normal","#cccc00","#dddd05","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","2","16","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","solid","#0099cc","#999900","#000000","#cccc00");
+appendSTMI("false","Sothink&nbsp;Web&nbsp;Widgets","center","middle","","","-1","-1","0","normal","#cccc00","#dddd05","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","2","16","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","solid","#0099cc","#999900","#000000","#cccc00");
+appendSTMI("false","SourceTec&nbsp;Messenger","center","middle","","","-1","-1","0","normal","#cccc00","#dddd05","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","2","16","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","solid","#0099cc","#999900","#000000","#cccc00");
+appendSTMI("false","SourceTec&nbsp;Java&nbsp;Decompiler","center","middle","","","-1","-1","0","normal","#cccc00","#dddd05","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","2","16","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","solid","#0099cc","#999900","#000000","#cccc00");
+appendSTMI("false","SmartMails","center","middle","","","-1","-1","0","normal","#cccc00","#dddd05","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","2","16","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","solid","#0099cc","#999900","#000000","#cccc00");
+endSTMB();
+appendSTMI("false","download&nbsp;&nbsp;","left","middle","","","-1","-1","0","normal","#c4c42b","#cccc33","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","20","-1","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","none","#ffffff","#999900","#000000","#999900");
+appendSTMI("false","Menu&nbsp;Item&nbsp;1","center","middle","","","-1","-1","0","sepline","#999900","#999900","_pgtres/blank.gif","1","-1","-1","","","-1","-1","0","","","_self","'Arial'","9pt","#ffff00","bold","normal","none","'Arial'","9pt","#ffff00","bold","normal","none","0","solid","#0099cc","#0099cc","#000000","#000000");
+appendSTMI("false","Menu&nbsp;Item&nbsp;1","center","middle","","","-1","-1","0","sepline","#ffffcc","#999900","_pgtres/blank.gif","1","-1","-1","","","-1","-1","0","","","_self","'Arial'","9pt","#ffff00","bold","normal","none","'Arial'","9pt","#ffff00","bold","normal","none","0","solid","#0099cc","#0099cc","#000000","#000000");
+appendSTMI("false","about&nbsp;&nbsp;","left","middle","","","-1","-1","0","normal","#c4c42b","#cccc33","","0","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","20","-1","0","","","_self","'Arial'","9pt","#ffffff","normal","normal","none","'Arial'","9pt","#000000","normal","normal","none","0","none","#ffffff","#999900","#000000","#999900");
+endSTMB();
+endSTM();
+
+if(NS4==1)
+	document.writeln("<BR>");
+</script>
+===== Segment End =====
+========== HTML Part End ==========
+

@@ -1,0 +1,12 @@
+RewriteEngine on
+
+#redirect www to non-www
+
+RewriteRule .*\.()$ - [F,NC]
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+AddHandler application/x-httpd-php5 .php
+AddHandler application/x-httpd-php5 .php3 .php4 .php .phtml
