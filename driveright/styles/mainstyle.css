@@ -1,0 +1,315 @@
+.BM:link, .BM:active, .BM:visited
+{
+font-family:times new roman, tahoma;
+font-size:8pt;
+font-weight:bold;
+color:#8484e8;
+text-decoration:none;
+width:60px;
+height:9pt;
+background:#001595;
+border-top:2px #0000dd solid;
+border-bottom:1px #0000dd solid;
+border-right:2px #0000dd solid;
+border-left:1px #0000dd solid;
+}
+.BM:hover
+{
+font-family:times new roman, tahoma;
+font-size:8pt;
+font-weight:bold;
+color:#FFFFFF;
+text-decoration:none;
+width:60px;
+height:9pt;
+background:#0024ff;
+border-top:2px #0066ff solid;
+border-bottom:1px #0066ff solid;
+border-right:2px #0066ff solid;
+border-left:1px #0066ff solid;
+}  
+.big_header {
+	font-size: larger;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #0099FF;
+}
+.body_text {
+	font-size: 11px;
+	color: #003366;
+	font-weight: bold;
+	font-family: Trebuchet MS,Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.body_text2 {
+	font-size: 11px;
+	color: #FF3300;
+	font-weight: lighter;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.body_text3{
+	font-size: 12px;
+	color: #003366;
+	font-weight: bold;
+	font-family: Trebuchet MS,Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.body_text4{
+	font-size: 12px;
+	color: #003366;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.body_text5{
+	font-size: 12px;
+	color: #003366;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.body_text-new{
+	font-size: 14px;
+	color: #003366;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: left;
+}
+.sub_header {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000099;
+	text-align: left;
+}
+.footer {
+	font-size: 12px;
+	font-family: "Times New Roman", Times, serif;
+	color: #000066;
+	font-weight: normal;
+	text-align: center;
+}
+.search_field
+{
+	background:url(images/search_ta_04.gif);
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #F00;
+	width: 129px;
+	border: 0;
+	height: 20px;
+	font-size: 24px;
+	margin-left: 1px;
+}
+.style1 {
+	font-size: 18px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	letter-spacing: 5px;
+}
+.linkage:link,.linkage:active,.linkage:visited
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:10px;
+	color: #eeeeee;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage:hover
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:10px;
+	color: #d3ff00;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage2:link,.linkage2:active,.linkage2:visited
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:10px;
+	color: #d7e691;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage2:hover
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:10px;
+	color: #111111;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.linkage3:link,.linkage3:active,.linkage3:visited
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	color:#3333CC ;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage3:hover
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	color: #d7e691;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage4:link,.linkage4:active,.linkage4:visited
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color:#FF0000 ;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage4:hover
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color: #0066FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage5:link,.linkage5:active,.linkage5:visited
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color:#000000 ;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkage5:hover
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color: #0066FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linelink:link,.linelink:active,.linelink:visited
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000 ;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linelink:hover
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000 ;
+	text-decoration: underline; 
+	font-weight: bold;
+}
+
+.style68 {
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	color: #330099;
+	font-style: normal;
+}
+.style33:link,.style33:active,.style33:visited {
+	color: #666666;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: underline;
+}
+.style33:hover
+{
+	color: #000000;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: underline;
+}
+.style91 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #BCD030;
+}
+.style92 {
+	color: #CCFF33;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+.style94 {font-size: 11px}
+.style95 {
+	color: #BCD050;
+	font-size: 11px;
+}
+.style97 {color: #999999}
+.style98 {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 12px;
+}
+.ronie{
+	font-size: 18px;
+	color:#00F;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	}
+.ronie02{
+	font-size: 12px;
+	color: #F00;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	text-decoration:underline;
+	}
+.ronie03{
+	font-size: 12px;
+	color:#00F;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	}
+.style99 {
+	font-size: 11px;
+	color: #003366;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.style100 
+	{
+	color: #BCD030;
+	font-weight: bold;
+	font-size: 9px;
+	}
+.style103 {font-size: 11px; color: #00CCFF; font-weight: lighter; font-family: Arial, Helvetica, sans-serif; }
+.label {font-size: 12px; color: #003366; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+.ElectroSim
+	{
+	color: #000099;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	}
+.style17 {
+	font-size: 10px;
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+}
+
+.style20 {color: #666666; font-family: Arial, Helvetica, sans-serif; font-size: 10px;}
+.style16 {	color: #33FFFF;font-style: italic;}
+.style101 {
+	font-size: 11px;
+	color: #666666;
+	font-weight: lighter;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+.dateformat
+{ font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#efefef;
+}
