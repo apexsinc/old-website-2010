@@ -1,0 +1,37 @@
+/* CSS Document */
+
+
+#shadowed-border {
+  padding: 20px;
+  width: 30%;
+  margin: 20px auto;
+}
+
+#shadowed-border .sb-inner {
+  background:#ccc;
+}
+
+#shadowed-border .sb-border {
+  background:#fff;
+}
+
+#shadowed-border2 {
+  padding: 10px;
+  width: 30%;
+  margin: 10px auto; 
+}
+
+#shadowed-border2 .sb-inner {
+  background:#DFE2FF;
+}
+
+#shadowed-border2 .sb-border {
+  background:#FFDC9F;
+}
+
+.plain {
+  padding: 10px;
+  width: 30%;
+  margin: 10px auto;
+  border: thin solid black;
+}
