@@ -1,0 +1,127 @@
+/* CSS Document for Printable Documents*/
+
+#container {
+	padding:0px 15px 10px 15px;
+	margin:0px;
+	width:740px;
+	background-color:#ffffff;
+}
+#bodycontainer {
+	padding:3px;
+	margin:3px 3px 3px 5px;
+	width:740px;
+	background-color:#ffffff;	
+}
+#header {
+	padding:5px;
+	margin:5px;
+	width:400px;
+	text-align:left;
+	position:relative;
+	background-color:#ffffff;	
+}
+#header h1 {
+	background:url(../images/speedspy-guide.jpg) no-repeat left;
+	width:313px;
+	height:39px;
+	padding:0px 0px 0px 290px;
+	font-family: "Trebuchet MS", "Courier New";
+	font-size:25pt;
+	color:#444444;
+}
+/*#header h1 span {
+	display: block;
+}*/
+#bodyheader {
+	padding:5px 5px 5px 15px;
+	margin:5px;
+	width:650px;
+}
+#bodyheader p {
+	margin:0px;
+	/*margin arrangement: top,right,bottom,left*/
+	padding:2px;
+	font-family: "Trebuchet MS", "Tempus Sans ITC";
+	font-size:13pt;
+	color:#ee581b;
+	text-decoration:none;
+	font-weight:bold;
+	font-variant:small-caps;
+	background-color:#f8f8f8;
+	}
+#bodycontent {
+	padding:5px 5px 5px 40px;
+	/*margin arrangement: top,right,bottom,left*/
+	margin:0px 0px 30px 0px;
+	width:600px;
+}
+#bodycontent p {
+	margin:10px;
+	/*margin arrangement: top,right,bottom,left*/
+	padding:2px 0px 0px 30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000;
+	background:url(../images/arrow_bul.png) no-repeat left;
+	text-decoration:none;
+	font-weight:normal;
+	vertical-align:top;
+	}
+#bodycontent2 {
+	padding:5px 5px 5px 40px;
+	/*margin arrangement: top,right,bottom,left*/
+	margin:0px 0px 30px 0px;
+	width:600px;
+}
+#bodycontent2 p {
+	margin:10px;
+	/*margin arrangement: top,right,bottom,left*/
+	padding:2px 0px 0px 30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000;
+	text-decoration:none;
+	font-weight:normal;
+	vertical-align:top;
+	}
+#bodycontent2 p.one {
+	margin:30px 0px 0px 0px;
+	background:url(../images/1.png) no-repeat left;
+}
+#bodycontent2 p.one:first-line, #bodycontent2 p.two:first-line, #bodycontent2 p.three:first-line {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	color:#ee581b;
+	text-decoration:none;
+	font-variant:normal;
+	font-weight:bold;	
+}
+#bodycontent2 p.two {
+	margin:30px 0px 0px 0px;
+	background:url(../images/2.png) no-repeat left;
+}
+#bodycontent2 p.three {
+	margin:30px 0px 0px 0px;
+	background:url(../images/3.png) no-repeat left;
+}
+#bodycontent2 p.bold {
+	font-weight:bold;
+}
+#bodycontent2 p span.blue {
+	font-size:11pt;
+	color:#00f;
+}
+#bodycontent2 p span.red {
+	font-size:11pt;
+	color:#f00;
+}
+#bodycontent p span.highlight {
+	font-size:11pt;
+	color:#ff8a00;
+	font-weight:bold;
+}
+#bodycontent2 p span.highlight {
+	font-size:11pt;
+	color:#ff8a00;
+	font-weight:bold;
+}

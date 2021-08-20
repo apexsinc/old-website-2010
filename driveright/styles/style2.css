@@ -1,0 +1,63 @@
+<style>
+.BM:link, .BM:active, .BM:visited
+{
+font-family:times new roman, tahoma;
+font-size:8pt;
+font-weight:bold;
+color:#8484e8;
+text-decoration:none;
+width:60px;
+height:9pt;
+background:#001595;
+border-top:2px #0000dd solid;
+border-bottom:1px #0000dd solid;
+border-right:2px #0000dd solid;
+border-left:1px #0000dd solid;
+}
+.BM:hover
+{
+font-family:times new roman, tahoma;
+font-size:8pt;
+font-weight:bold;
+color:#FFFFFF;
+text-decoration:none;
+width:60px;
+height:9pt;
+background:#0024ff;
+border-top:2px #0066ff solid;
+border-bottom:1px #0066ff solid;
+border-right:2px #0066ff solid;
+border-left:1px #0066ff solid;
+}  
+.big_header {font-size: large}
+.body_text {
+	font-size: 11px;
+	color: #003366;
+	font-weight: lighter;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.sub_header {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000099;
+}
+.footer {	font-size: 12px;
+	font-family: "Times New Roman", Times, serif;
+	color: #000066;
+	font-weight: normal;
+}
+.search_field
+{
+	background:url(images/search_ta_04.gif);
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	color: #003366;
+	width: 129px;
+	border: 0;
+	height: 20px;
+	font-size: 12px;
+	margin-left: 1px;
+}
+.style103 {font-size: 11px; color: #00CCFF; font-weight: lighter; font-family: Arial, Helvetica, sans-serif; }
+</style>
