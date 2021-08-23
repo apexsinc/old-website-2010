@@ -1,0 +1,117 @@
+.style3 {
+	font-size: 16px;
+	color: #666666;
+}
+.head_title {
+	color: #70691f;
+	font-family: tahoma;
+	font-size:16px;
+	font-weight: bold;
+}
+.sub_title {
+	color: #635a00;
+	font-family: arial;
+	font-size:11px;
+	font-weight: bold;
+}
+.sub_title2 {
+	color: #ff7600;
+	font-family: arial;
+	font-size:9px;
+	font-weight: bold;
+	text-decoration:underline;
+}
+.left_sub_title {
+	color: #635a00;
+	font-family: verdana;
+	font-size:14px;
+	font-weight: bold;
+}
+.menu_title {
+	color: #777777;
+	font-family: arial;
+	font-size:12px;
+}
+.menu:link, .menu:active, .menu:visited {
+	color: #777777;
+	font-family: arial;
+	font-size:12px;
+	background:#fff7f2;
+	text-decoration:none;
+	width:100%;
+	font-weight:bold;
+}
+.menu:hover {
+	color: #ffffff;
+	font-family: arial;
+	font-size:12px;
+	background:#FF6600;
+	text-decoration:none;
+	width:100%;
+	font-weight:bold;
+}
+.smalltext {
+	font-size: 11px;
+	color: #333333;
+	font-family: "times new roman";
+}
+.bigtxt {
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Tahoma;
+	color: #eeeeee;
+	font-style: oblique;
+}
+.featured_text {
+	font-size: 18px;
+	color: #f3de16;
+	font-family:"Trebuchet MS";
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: 1px #dfdfdf solid;
+	border-top: 1px #dfdfdf solid;
+	border-right: 1px #dfdfdf solid;
+	border-left: 1px #dfdfdf solid;
+	background:#534800;
+}
+.featured_smalltext {
+	font-size: 12px;
+	color: #534800;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.body_smalltext {
+	font-size: 12px;
+	color: #534800;
+	font-family: Tahoma,serif;
+	text-decoration:none;
+	font-weight:normal;
+	background:#f6f6f6;
+}
+.body_title {
+	font-size: 14px;
+	color: #555555;
+	font-family: "times new roman";
+	font-weight: bold;
+	text-decoration:overline;
+	background-color:#FFFFFF;
+}
+.border_right{
+border-right:2px #CCCCCC solid;
+border-bottom:2px #CCCCCC solid;
+}
+.border_left{
+	border-left:1px #CCCCCC solid;
+	font-size: 14px;
+	color: #5165a3;
+	font-family: "times new roman";
+	font-weight: bold;
+	text-decoration:overline;
+	background-color:#f6f6f6;
+}
+.form_class
+{
+height:22px;
+font-size:15px;
+color:#000000;
+width:60px;
+}

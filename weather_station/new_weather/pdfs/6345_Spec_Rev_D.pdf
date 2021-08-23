@@ -1,0 +1,165 @@
+<html>
+<head>
+	<title>404 Not Found</title>
+	<!-- begin_javascript_for_news -->
+<SCRIPT LANGUAGE="JavaScript">
+//<!--
+	if (document.images) {
+ document.about_out_on = new Image();
+ document.about_out_on.src = "http://www.davisnet.com/images_global/about_out_on.gif";
+ document.about_out_off = new Image();
+ document.about_out_off.src = "http://www.davisnet.com/images_global/about_out_off.gif";
+ document.news_out_on = new Image();
+ document.news_out_on.src = "http://www.davisnet.com/images_global/news_in_on.gif";
+ document.news_out_off = new Image();
+ document.news_out_off.src = "http://www.davisnet.com/images_global/news_in_off.gif";
+ document.contact_out_on = new Image();
+ document.contact_out_on.src = "http://www.davisnet.com/images_global/contact_out_on.gif";
+ document.contact_out_off = new Image();
+ document.contact_out_off.src = "http://www.davisnet.com/images_global/contact_out_off.gif";
+ document.support_out_on = new Image();
+ document.support_out_on.src = "http://www.davisnet.com/images_global/support_out_on.gif";
+ document.support_out_off = new Image();
+ document.support_out_off.src = "http://www.davisnet.com/images_global/support_out_off.gif";
+ document.weather_out_on = new Image();
+ document.weather_out_on.src = "http://www.davisnet.com/images_global/weather_out_on.gif";
+ document.weather_out_off = new Image();
+ document.weather_out_off.src = "http://www.davisnet.com/images_global/weather_out_off.gif";
+ document.drive_out_on = new Image();
+ document.drive_out_on.src = "http://www.davisnet.com/images_global/drive_out_on.gif";
+ document.drive_out_off = new Image();
+ document.drive_out_off.src = "http://www.davisnet.com/images_global/drive_out_off.gif";
+ document.marine_out_on = new Image();
+ document.marine_out_on.src = "http://www.davisnet.com/images_global/marine_out_on.gif";
+ document.marine_out_off = new Image();
+ document.marine_out_off.src = "http://www.davisnet.com/images_global/marine_out_off.gif";
+ document.home_out_off = new Image();
+ document.home_out_off.src = "http://www.davisnet.com/images_global/home_out_off.gif";
+ document.home_out_on = new Image();
+ document.home_out_on.src = "http://www.davisnet.com/images_global/home_out_on.gif";
+ document.site_map_out_off = new Image();
+ document.site_map_out_off.src = "http://www.davisnet.com/images_global/site_map_out_off.gif";
+ document.site_map_out_on = new Image();
+ document.site_map_out_on.src = "http://www.davisnet.com/images_global/site_map_out_on.gif";
+}
+
+function imgAct(imgName) {
+
+
+        if (document.images) {
+        	document[imgName].src = eval( "document." + imgName + "_on.src");
+        }
+}
+
+function imgInact(imgName) {
+        if (document.images) {
+        document[imgName].src = eval( "document." + imgName + "_off.src");
+        }
+}
+//-->
+</SCRIPT>
+<!-- end_javascript_for_news -->
+</head>
+
+<body marginheight="" marginwidth="" topmargin="0" leftmargin=0 rightmargin="0" bgcolor="#FFFFFF" alink="#2D63FB">
+
+
+	<table width="640" cellspacing="0" cellpadding="0" border="0">
+<tr>
+    <td colspan=10 width=540 height=49><img src="http://www.davisnet.com/images_global/logo.gif" width=540 height=49 border=0 alt=""></td>
+    <td width=100 height=49><img src="http://www.davisnet.com/images_global/top_right.gif" width=100 height=49 border=0 alt=""></td>
+</tr>
+<tr>
+    <td><img src="http://www.davisnet.com/images_global/mid_left.gif" width=113 height=18 border=0 alt=""></td>
+    <td><a href="http://www.davisnet.com/about/index.asp"" onMouseout = "imgInact('about_out')" onMouseover = "imgAct('about_out')"><img src="http://www.davisnet.com/images_global/about_out_off.gif" width=70 height=18 border=0 alt="about" name="about_out"></a></td>
+	<td><a href="http://www.davisnet.com/news/index.asp" onMouseout = "imgInact('news_out')" onMouseover = "imgAct('news_out')"><img src="http://www.davisnet.com/images_global/news_out_off.gif" width=36 height=18 border=0 alt="news" name="news_out"></a></td>
+	<td><a href="http://www.davisnet.com/contact/index.asp" onMouseout = "imgInact('contact_out')" onMouseover = "imgAct('contact_out')"><img src="http://www.davisnet.com/images_global/contact_out_off.gif" width=60 height=18 border=0 alt="contact" name="contact_out"></a></td>
+	<td><a href="http://www.davisnet.com/support/index.asp" onMouseout = "imgInact('support_out')" onMouseover = "imgAct('support_out')"><img src="http://www.davisnet.com/images_global/support_out_off.gif" width=48 height=18 border=0 alt="support" name="support_out"></a></td>
+	<td><a href="http://www.davisnet.com/weather/index.asp" onMouseout = "imgInact('weather_out')" onMouseover = "imgAct('weather_out')"><img src="http://www.davisnet.com/images_global/weather_out_off.gif" width=70 height=18 border=0 alt="weather" name="weather_out"></a></td>
+	<td><img src="http://www.davisnet.com/images_global/sliver1.gif" width=2 height=18 border=0 alt=""></td>
+	<td><a href="http://www.davisnet.com/drive/index.asp" onMouseout = "imgInact('drive_out')" onMouseover = "imgAct('drive_out')"><img src="http://www.davisnet.com/images_global/drive_out_off.gif" width=69 height=18 border=0 alt="driveright" name="drive_out"></a></td>
+	<td><img src="http://www.davisnet.com/images_global/sliver2.gif" width=2 height=18 border=0 alt=""></td>
+	<td><a href="http://www.davisnet.com/marine/index.asp" onMouseout = "imgInact('marine_out')" onMouseover = "imgAct('marine_out')"><img src="http://www.davisnet.com/images_global/marine_out_off.gif" width=70 height=18 border=0 alt="marine" name="marine_out"></a></td>
+	<td><a href="http://www.davisnet.com/index.asp" onMouseout = "imgInact('home_out')" onMouseover = "imgAct('home_out')"><img src="http://www.davisnet.com/images_global/home_out_off.gif" name="home_out" width=100 height=18 border=0 alt=""></a></td>
+</tr>
+<tr>
+	<td colspan=10 width=540 height=66 align="right"><img src="http://www.davisnet.com/images_global/contact_header.gif" width=540 height=66 border=0 alt=""></td>
+	<td width=100 height=66><a href="http://www.davisnet.com/site_map/index.asp" onMouseout = "imgInact('site_map_out')" onMouseover = "imgAct('site_map_out')"><img src="http://www.davisnet.com/images_global/site_map_out_off.gif" name="site_map_out" width=100 height=16 border=0 alt=""></a><br>
+	<img src="http://www.davisnet.com/images_global/bottom_right.gif" width=100 height=50 border=0 alt=""></td>
+	</tr>
+</table>
+
+<!-- begin_body_table -->
+<table width="640" cellspacing="0" cellpadding="0" border="0" height="348">
+<tr>	<!-- begin_side_navbar -->
+    <td rowspan="3" width="180" valign="top" bgcolor="#9CCFFF">
+		<img src="http://www.davisnet.com/images/shim.gif" width="180" height="6" border="0"><br>
+		
+		
+		
+
+	</td>	<!-- end_side_navbar -->
+	<!-- begin_top_right_cell -->
+    <td width="460" valign="top" colspan="3">
+	<!-- begin_content_table -->
+				
+      <table cellspacing="0" cellpadding="0" border="0" width="460" height="310">
+        <tr> <!-- spacer_row --> 
+          <td width="1" valign="top" bgcolor="#31009C"><img src="http://www.davisnet.com/images/shim.gif" width="1" height="5" border="0"></td>
+          <td colspan="3" width="459"><img src="http://www.davisnet.com/images/shim.gif" width="459" height="5" border="0"></td>
+        </tr>
+        <tr> <!-- content_row --> 
+          <td width="1" valign="top" bgcolor="#31009C"><img src="http://www.davisnet.com/images/shim.gif" width="1" height="303" border="0"></td>
+          <td width="15" valign="top"><img src="http://www.davisnet.com/images/shim.gif" width="15" height="303" border="0"></td>
+          <td width="454" height="303" valign="top" colspan="2"> <!-- begin_body_text -->	
+            <font face="Arial" size="2"> 
+            <h4><font color="#FF0033">404: The page was not found on the server.</font></h4>
+            </font> 
+            <p><font face="Arial" size="2"> </font> <!-- end_body_text --> <img src="http://www.davisnet.com/images/shim.gif" width="454" height="1" border="0"> 
+            <div align="left"> 
+              <p><b><font face="Arial, Helvetica, sans-serif">We want your feedback!!</font></b></p>
+              <p><font face="Arial, Helvetica, sans-serif">If you feel you've 
+                reached this page in error, please contact the <a href="mailto:webmaster@davisnet.com">webmaster</a> 
+                and include the address of this page and the address of the page 
+                that caused the error. </font></p>
+              <p><font face="Arial, Helvetica, sans-serif">Thank you.</font></p>
+            </div>
+          </td>
+        </tr>
+        <tr> 
+          <td height="1" valign="top" bgcolor="#31009C" colspan="4"><img src="http://www.davisnet.com/images/shim.gif" height="1" width="461" border="0"></td>
+      </table>
+    </td>
+						
+			   
+	<!-- end_content_table -->
+ 
+					
+				
+			<!-- end_top_right_cell -->
+			</tr>
+		<!-- end_top_row -->
+	<!-- begin_bottom_row -->
+<tr>
+<td bgcolor="#31009C" width="1" height="39">
+						<img src="http://www.davisnet.com/images/shim.gif" width="1" height="39" border="0">
+					</td>
+				    <td bgcolor="#9CCFFF" width="323">
+						<img src="http://www.davisnet.com/images/shim.gif" width="323" height="39">
+					</td>
+					
+<td bgcolor="#9CCFFF" width="137" align="center">						
+	<!--SHOPPING CART BUTTON-->	
+		<FORM action="http://www.cartserver.com/sc/cart.cgi" method=POST>
+		<INPUT TYPE=hidden name=item VALUE="b-4727">				
+		<p align="center"><INPUT type=image name="view" src="http://www.davisnet.com/images_global/shopping_cart_gray.gif" width="107" height="15" border="0">
+<a href="http://www.davisnet.com/contact/catalog.asp"><img src="http://www.davisnet.com/images_global/order_catalog_gray.gif" width="107" height="13" border="0"></a><img src="http://www.davisnet.com/images/shim.gif" width="137" height="2" border="0"></p>
+		</FORM>
+</td>
+	</tr>
+<!-- end_bottom_row -->
+</table>
+
+
+</body>
+</html>

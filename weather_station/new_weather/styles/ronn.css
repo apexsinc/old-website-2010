@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+p.first{
+	 color: #f40606;
+	 font-family: "Minion Pro";
+	 font-size: 18px;
+	 font-weight: bold;
+	 text-decoration:none;
+	 }
+
+p.second{
+	 color: #205279;
+	 font-family: "Trebuchet MS";
+	 font-size: 14px;
+	 font-weight: bold;
+	 text-decoration:none;
+	 }
+	 
+p.third{
+	 color: #205279;
+	 font-family: "Trebuchet MS";
+	 font-size: 12px;
+	 font-weight:normal;
+	 text-decoration:none;
+	 }
+
+

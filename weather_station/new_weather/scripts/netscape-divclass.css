@@ -1,0 +1,155 @@
+/* CSS Document */
+#wrapper
+{
+	margin:0px;
+	width:734px;
+	background:url(../images/infoback-2.png);
+	padding:0px;
+	height:291px;
+}
+#concart
+{
+	background:transparent;
+	margin-top:0px;
+	padding:0px;
+	margin-left:360px;
+}
+#concart .buttons
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	width:94px;
+	padding-top:4px;
+}
+#inswrapper
+{
+	margin: 10px 60px 0px 60px;
+}
+#inswrapper .consinst
+{
+	padding:10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+#inswrapper h1
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color:#cb3636;/*ffe0b9*/
+	text-decoration:none;
+	font-style:italic;
+	font-weight:bold;
+
+}
+/*#inswrapper ul
+{
+	margin-left:0px;
+	padding:0px;
+}
+#inswrapper li
+{
+	background-image:url(../images/pdf.gif);
+	background-repeat:no-repeat;
+	background-position:center left;
+	padding-left:5px;
+} */
+#inswrapper p
+{
+	font-size:110%;
+	margin:8px;
+	padding-left:10px;
+}
+#inswrapper p.more
+{
+	margin-top:0px;
+}
+#inswrapper p.more a:link,#inswrapper p.more a:visited,#inswrapper p.more a:active
+{
+	background-image:url(../images/pdf.gif);
+	background-repeat:no-repeat;
+	background-position:center left;
+	padding-left:25px;
+	color:#8c5215;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration:none;
+	font-size:11px;
+	margin:0px;
+}
+#inswrapper p.more a:hover
+{
+	background-image:url(../images/pdf-check2.png);
+	background-repeat:no-repeat;
+	background-position:center left;
+	padding-left:25px;
+	color:#222222;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration:none;
+	font-size:11px;
+	margin:0px;
+}
+#pdf-reader p
+{
+	margin-top:0px;
+	margin-right:40px;
+	margin-left:40px;
+	margin-bottom:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000;
+	text-decoration:none;
+	font-style:italic;
+	font-weight:normal; 
+}
+#pdf-reader p.link a:link,#pdf-reader p.link a:visited,#pdf-reader p.link a:active
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color: #cb3636;
+	text-decoration:underline;
+	font-style:italic;
+	font-weight:bold;
+	}	
+#pdf-reader p.link a:hover
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#eeeeee;
+	text-decoration:underline;
+	font-style:italic;
+	font-weight:bold;
+	}		
+#bottomlink ul
+{
+	margin-top:20px;
+	padding:0px;
+}
+#bottomlink li
+{
+	display:inline;		
+}
+#bottomlink a:link,#bottomlink li a:visited,#bottomlink li a:active
+{
+	font-family:"Tempus Sans ITC";
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+	color:#000000;
+	margin:0px 0px 0px 15px;
+	border-style: outset;
+	border-color:#b8e7be;
+}
+#bottomlink a:hover
+{
+	font-family:"Tempus Sans ITC";
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+	color:#cb3636;
+	margin:0px 0px 0px 15px;
+	background:#CCCCCC;
+	border-style:groove;
+	border-color:#cb3636;
+}	
+		

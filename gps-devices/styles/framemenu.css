@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+
+.wireframemenu{
+	border: 1px solid #C0C0C0;
+	background-color: white;
+	border-bottom-width: 0;
+	width: 190px;
+	position: absolute;
+	height: 150px;
+	visibility: visible;
+}
+
+* html .wireframemenu{ /*IE only rule. Original menu width minus all left/right paddings */
+width: 123px;
+}
+
+.wireframemenu ul{
+padding: 0;
+margin: 0;
+list-style-type: none;
+}
+
+.wireframemenu a{
+font: bold 12px Verdana;
+padding: 4px 3px;
+display: block;
+width: 100%; /*Define width for IE6's sake*/
+color: #595959;
+text-decoration: none;
+border-bottom: 1px solid #C0C0C0;
+}
+
+.wireframemenu a:visited{
+color: #595959;
+}
+
+html>body .wireframemenu a{ /*Non IE rule*/
+width: auto;
+}
+
+.wireframemenu a:hover{
+background-color: #247BFC;
+color: #FFFFFF;
+}
+.style104 {	font-size: 12px;
+	font-weight: bold;
+}
+.style106 {
+	font-size: 10px;
+	font-weight: bold;
+	font-family: "Trebuchet MS";
+}
+.style111 {color: #000000}
+.style112 {font-size: 10px; font-weight: bold; font-family: "Trebuchet MS"; color: #0059a3; }
+.style114 {font-size: 12px; font-weight: bold; color: #0059a3; }
+.style115 {color: #0059a3}
+.style116 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.style119 {	font-size: 10px;
+	color: #FF0000;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+</style>

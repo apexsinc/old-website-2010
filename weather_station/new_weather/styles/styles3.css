@@ -1,0 +1,132 @@
+.smalllink:active, .smalllink:visited, .smalllink:link
+{
+font-family:Helvetica;
+font-size:12px;
+font-weight:bold;
+color:#33cc33;
+text-decoration:none;
+}
+.smalllink:hover
+{
+font-family:Helvetica;
+font-size:12px;
+font-weight:bold;
+color:#339900;
+text-decoration:none;
+}
+.smalllink2:active, .smalllink2:visited, .smalllink2:link
+{
+font-family:Helvetica;
+font-size:12px;
+font-weight:bold;
+color:#FF0000;
+text-decoration:none;
+}
+.smalllink2:hover
+{
+font-family:Helvetica;
+font-size:12px;
+font-weight:bold;
+color:#FFCC00;
+text-decoration:none;
+}
+.web:active, .web:visited, .web:link
+{
+font-family:Gill Sans Ultra Bold;
+font-size:14px;
+font-weight:normal;
+color:#fffcb3;
+text-decoration:none;
+}
+.web:hover
+{
+font-family:Gill Sans Ultra Bold;
+font-size:14px;
+font-weight:normal;
+color:#000000;
+text-decoration:underline;
+}
+.prod_title
+{
+font-family:Gill Sans Ultra Bold;
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+color:#0066ee;
+}
+
+.auto_title3
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+color:#666666;
+}
+
+.auto_header_gray
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+font-weight:bold;
+text-decoration:underline;
+color:#888888;
+}
+.read_more:link,.read_more:visited,.read_more:active
+{
+font-family:Gill Sans Ultra Bold;
+font-size:14px;
+font-weight:normal;
+color:#ff6600;
+text-decoration:none;
+}
+.read_more:hover
+{
+font-family:Gill Sans Ultra Bold;
+font-size:14px;
+font-weight:normal;
+color:#555555;
+text-decoration:none;
+}
+
+p.first{
+	 color: #f40606;
+	 font-family: Minion Pro;
+	 font-size: 18px;
+	 font-weight: bold;
+	 text-decoration:none;
+	 }
+
+p.second{
+	 color: #205279;
+	 font-family: Trebuchet MS;
+	 font-size: 14px;
+	 font-weight: bold;
+	 text-decoration:none;
+	 }
+	 
+p.third{
+	 color: #205279;
+	 font-family: Trebuchet MS;
+	 font-size: 12px;
+	 font-weight:normal;
+	 text-decoration:none;
+	 }
+	 
+p.ronn {
+	 color: #ff0600;
+	 font-family: Trebuchet MS;
+	 font-size: 12px;
+	 font-weight:normal;
+	 text-decoration:none;
+	 }
+	 
+	 p.ronn_b {
+	 text-align:center;
+	 color: #ff0600;
+	 font-family: Trebuchet MS;
+	 font-size: 12px;
+	 font-weight:normal;
+	 text-decoration:none;
+	 }
+

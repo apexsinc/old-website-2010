@@ -1,0 +1,181 @@
+.botlink:link,.botlink:active,.botlink:visited {
+		font-family: "Tempus Sans ITC";
+		font-size:12px;
+		color:#CC3300;
+		text-decoration:none;
+		font-weight:bold;		
+		}
+.botlink:hover {
+		font-family: "Tempus Sans ITC";
+		font-size:12px;
+		color:#000000;
+		text-decoration:none;
+		font-weight:bold;		
+		}
+.conlink:link,.conlink:active,.botlink.visited {
+        font-family: Berlin Sans FB Demi
+		font-size:12px;
+		color:#CC3300;
+		text-decoration:none;
+		font-weight:bold;
+		}
+.conlink:hover {
+        font-family: Berlin Sans FB Demi
+		font-size:12px;
+		color:#33CCFF;
+		text-decoration:none;
+		font-weight:bold;
+		}
+					
+.content {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	color: #205279;
+}
+
+ul.a {list-style-type:circle;}
+ul.b {list-style-type:square;}
+ul.c {list-style-type:disc;}
+
+#social img{
+	display:block;
+	float:left;
+}
+
+#social img:hover {
+	opacity:0.7;
+}
+
+.sub_header {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	color: #F6000B;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.title_header {
+float: left;
+
+
+	font-family: "Trebuchet MS";
+	font-weight: bold;
+	font-size: 24px;
+	font-style: normal;
+	letter-spacing: 0px;
+	color: #ce662f;
+}
+.title_header2 {
+
+
+	font-family: "Trebuchet MS";
+	font-weight: bold;
+	font-size: 24px;
+	font-style: normal;
+	letter-spacing: 0px;
+	color: #ce662f;
+}
+.menu_link:link,.menu_link:active,.menu_link:visited
+{
+	font-family:"Tempus Sans ITC";
+	font-size: 14px;
+	color:#b59700;
+	width:123px;
+	background:#2c6c99;
+	text-decoration: none;
+	font-weight: bold;
+}
+.menu_link:hover
+{
+	font-family:"Tempus Sans ITC";
+	font-size: 14px;
+	color:#FFFFFF;
+	width:123px;
+	background:#a7581c;
+	text-decoration: none;
+	font-weight: bold;	
+}
+.downloadlink:link,.downloadlink:active,.downloadlink:visited
+{
+	font-family:"Arial";
+	font-size: 11px;
+	color:#8c5215;
+	font-weight:bold;
+	text-decoration: none;
+}
+.downloadlink:hover
+{
+	font-family:"Arial";
+	font-size: 11px;
+	color:#ffe0b9;
+	font-weight:bold;
+	text-decoration: none;
+
+}
+#cart
+{
+	background:url(../images/cart-background.png) no-repeat bottom;
+	height: 38px;
+}
+#cartbutton
+{
+	/*background:url(../images/addtocart.png) no-repeat bottom;*/
+	height: 35px;
+	vertical-align:top;
+	float:right;
+	width: auto;
+}
+.javaenable
+{
+ 	font-family:arial;
+	font-size:12px;
+	color:#F6000B;
+	text-decoration:none;
+	font-weight:normal;
+	}
+#infoback
+{
+	width:734;
+	height:291;
+	background:url(../images/infoback-2.png) no-repeat center;
+}
+.instructspec
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#ffe0b9;
+	font-size:12px;
+	text-decoration:none;
+	letter-spacing: 1px;
+}
+#conhalf
+{
+	padding:0px;
+	width: auto;
+	height:23px;
+	float:right;
+}
+
+p.third{
+	 color: #205279;
+	 font-family: Trebuchet MS;
+	 font-size: 12px;
+	 font-weight:normal;
+	 text-decoration:none;
+}
+
+p.first{
+	 color: #f40606;
+	 font-family: Minion Pro;
+	 font-size: 18px;
+	 font-weight: bold;
+	 text-decoration:none;
+	 }
+
+p.second{
+	 color: #205279;
+	 font-family: Trebuchet MS;
+	 font-size: 14px;
+	 font-weight: bold;
+	 text-decoration:none;
+	 }
+	 

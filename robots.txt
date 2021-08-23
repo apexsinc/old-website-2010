@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /Belkin_Catalog/
+Disallow: /mp3_players/
+Disallow: /pda.htm
+Disallow: /contact-us.php

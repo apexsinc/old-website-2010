@@ -1,0 +1,74 @@
+.smalllink:active, .smalllink:visited, .smalllink:link
+{
+font-family:arial,tahoma,helvitica,Gill Sans Ultra Bold;
+font-size:14px;
+font-weight:normal;
+color:#035e03;
+text-decoration:none;
+}
+.smalllink:hover
+{
+font-family:Gill Sans Ultra Bold;
+font-size:14px;
+font-weight:normal;
+color:#ccff66;
+text-decoration:none;
+}
+.web:active, .web:visited, .web:link
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:normal;
+color:#fffcb3;
+text-decoration:none;
+}
+.web:hover
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:normal;
+color:#000000;
+text-decoration:underline;
+}
+.prod_title
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+color:#0066ee;
+}
+
+.auto_title3
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+color:#666666;
+}
+
+.auto_header_gray
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+font-weight:bold;
+text-decoration:underline;
+color:#888888;
+}
+.read_more:link,.read_more:visited,.read_more:active
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:normal;
+color:#ff6600;
+text-decoration:none;
+}
+.read_more:hover
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:normal;
+color:#555555;
+text-decoration:none;
+}

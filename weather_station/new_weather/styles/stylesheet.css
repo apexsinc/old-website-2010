@@ -1,0 +1,104 @@
+/* for text informing merchant which page/stage they are on */
+.steps {
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* for text informing merchant which page/stage they are at */
+.boldtext {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+/* dictating size for the main text */
+.maintext {
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font for printer-friendly receipt */
+.mainfont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+/* style for grey box when there are no images to be displayed */
+.boxborder {
+	border-top: thin solid #e1ffa6;
+	border-right: thin solid #e1ffa6;
+	border-bottom: thin solid #e1ffa6;
+	border-left: thin solid #e1ffa6;
+}
+
+/* red box border for inv expiration alert in cart */
+.redbox {
+	padding: 5px;
+	height: auto;
+	width: auto;
+	border: 1px solid #dddddd;
+}
+
+/* red astericks for required fields */
+.red {
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+/* size of dept text */
+.depttext {
+	font-size: 11px;
+}
+
+/* styles for dept list */
+#containerul, #containerul ul{
+  text-align:left;
+  margin:0;   /* Removes browser default margins applied to the lists. */
+  padding:0;   /* Removes browser default padding applied to the lists. */
+}
+
+#containerul li{
+  margin:0 0 0 7px;   /* A left margin to indent the list items and give the menu a sense of structure. */
+  padding:0;   /* Removes browser default padding applied to the list items. */
+  list-style-type:none;   /* Removes the bullet point that usually goes next to each item in a list. */
+}
+
+#containerul .symbols{   /* Various styles to position the symbols next to the items in the menu. */
+  float:left;
+  width:12px;
+  height:1em;
+  background-position:0 50%;
+  background-repeat:no-repeat;
+}
+
+/* small text used for email and homepage links */
+.smalltext {
+	font-size: 10px;
+}
+
+
+/* can be used to hide/show div content */
+div.hidden {
+	display:none;
+}
+
+div.visible {
+	display:block;
+}
+
+/* for image enlargement */
+#trailimageid { 
+    font-family: arial;
+    font-size: 0.75em; 
+    position: absolute;
+    visibility: hidden;
+    left: 0px;
+    top: 0px;
+    width: 450px; 
+    height: 0px; 
+    z-index: 200; 
+}

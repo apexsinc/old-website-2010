@@ -1,0 +1,85 @@
+#dropmenudiv{
+padding: 0px;
+position:absolute;
+border:1px solid black;
+border-bottom-width: 1px;
+font:normal 12px Verdana;
+line-height:18px;
+z-index:100;
+background:#cde686;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+background:#cde686;
+font-family:tahoma;
+font-size:10px;
+font-weight:bold;
+color:#000000;
+letter-spacing:1px;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+width: 100%;
+display: block;
+text-indent: 3px;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+background:#9C0;
+font-family:tahoma;
+font-size:10px;
+font-weight:bold;
+color:#03F;
+letter-spacing:1px;
+
+}
+.dropmenu:link, .dropmenu:active, .dropmenu:visited
+{
+font-family:Verdana;
+font-size:10px;
+font-weight: inherit;
+color:#000000;
+text-decoration:none;
+/*width:100px;*/
+height:9pt;
+/*background:#0072ff;*/
+border-top:0px #0000dd solid;
+border-bottom:0px #0000dd solid;
+border-right:0px #0000dd solid;
+border-left:0px #0000dd solid;
+letter-spacing:1px;
+}
+.dropmenu:hover
+{
+font-family:Verdana;
+font-size:10px;
+font-weight:inherit;
+color:#03F;
+text-decoration:none;
+/*width:100px;*/
+height:9pt;
+/*background:#0024ff;*/
+border-top:0px #888888 solid;
+border-bottom:0px #888888 solid;
+border-right:0px #888888 solid;
+border-left:0px #888888 solid;
+letter-spacing:1px;
+
+}  
+.dateformat
+{ font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#007fba; font-weight:bold;
+}
+.dateformat2
+{ font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#ffffff; font-weight:bold;
+}
+.dropmenudiv .arrowdiv{
+position: absolute;
+right: 0;
+background: transparent url(menuarrow.gif) no-repeat center left;
+}
